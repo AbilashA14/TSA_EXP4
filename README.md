@@ -24,8 +24,8 @@ axis limits.
 plot_acf and plot_pacf.
 ### PROGRAM:
 ```
-Name : pragatheesvaran A B
-Register number : 212221240039
+Name : ABILASH A
+Register number : 212224220004
 ```
 ```python
 
